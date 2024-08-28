@@ -5,3 +5,4 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 ## This is a title
 
 And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+![image](https://github.com/user-attachments/assets/bf1bbe31-1eb4-4bf4-b61b-08cca790df6c)
